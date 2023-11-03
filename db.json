@@ -1,0 +1,38 @@
+{ "Items" : [
+  {
+    "name" : "Crack Cocaine",
+    "category" : "Drugs",
+    "amountUnit" : "Kg",
+    "price" : 99999.99,
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/home-automation-jetpack.appspot.com/o/CottonRoad%2Fsugar.jpeg?alt=media&token=010e8b74-5e13-4329-a0d6-dbbb984a57a2"
+  },
+  {
+    "name" : "Methamphetamine",
+    "category" : "Drugs",
+    "amountUnit" : "Oz",
+    "price" : 499.99,
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/home-automation-jetpack.appspot.com/o/CottonRoad%2Fmeth.jpeg?alt=media&token=1a457ea0-a28d-44ea-914b-0c242868658f"
+  },
+  {
+    "name" : "Glock 9mm",
+    "category" : "Weapons",
+    "amountUnit" : "Pc",
+    "price" : 999.99,
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/home-automation-jetpack.appspot.com/o/CottonRoad%2Fglock.jpeg?alt=media&token=0eb77003-28f3-4007-bc5c-f724d2e9addb"
+  },
+  {
+    "name" : "Kalashnikov",
+    "category" : "Weapons",
+    "amountUnit" : "Pc",
+    "price" : 2999.99,
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/home-automation-jetpack.appspot.com/o/CottonRoad%2FAK.jpeg?alt=media&token=c204eedc-8080-4924-9840-c334a43e5e09"
+  },
+  {
+    "name" : "RPG-7",
+    "category" : "Weapons",
+    "amountUnit" : "Pc",
+    "price" : 59999.99,
+    "imageUrl" : "https://firebasestorage.googleapis.com/v0/b/home-automation-jetpack.appspot.com/o/CottonRoad%2Frpg.jpeg?alt=media&token=6c896687-9752-4468-a72c-982588b618a6"
+  }
+]
+}
